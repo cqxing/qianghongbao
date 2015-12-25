@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo_TestView</string>
+    <string name="accessibility_description">测试微信的界面</string>
+</resources>
